@@ -15,6 +15,7 @@ public class Hallfinder extends AppCompatActivity {
     public static final String TAG = "TAG: ";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hallfinder);
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
