@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "53308286799",
+    "firebase_url": "https://smsapp3-dbf0d.firebaseio.com",
+    "project_id": "smsapp3-dbf0d",
+    "storage_bucket": "smsapp3-dbf0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53308286799:android:3e2720952afe2f12",
+        "android_client_info": {
+          "package_name": "com.example.pdi.sms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53308286799-rk1ubnlv5vauk1ih8fn9ujkhr3o2m3ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdi.sms_app",
+            "certificate_hash": "458fd533d2ba723a86ef4ab92952bd78ace6dea7"
+          }
+        },
+        {
+          "client_id": "53308286799-328eg8rcuackd460oh81ju6ldt6rmqtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClrcWHd49drvzDIgSYmNsvbMbenWIrarY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53308286799-328eg8rcuackd460oh81ju6ldt6rmqtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
